@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TaskAssignment.Data/obj
+/TaskAssignment.Web/bin/Debug/net7.0
+/TaskAssignment.Web/obj
+/TaskManagement.Logic/obj
+/TaskManagement.Test/obj
